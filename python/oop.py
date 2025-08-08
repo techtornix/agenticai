@@ -1,6 +1,6 @@
-import mymodule
+# import mymodule
 
-mymodule.greeting
+# mymodule.greeting
 # clases 
 
 # class parent:
@@ -34,6 +34,6 @@ mymodule.greeting
 
 
 
-mymodule.greeting("Jonathan")
-mymodule.sum(5, 10)
+# mymodule.greeting("Jonathan")
+# mymodule.sum(5, 10)
 
