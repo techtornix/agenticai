@@ -34,5 +34,5 @@
 # and 
 # or  
 
-# age = input("enter your age")
-# print(age)
+name = input("enter you name")
+print(name)  
